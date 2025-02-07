@@ -7,4 +7,4 @@ Abaixo, está o circuito simulado no Tinkercad:
 E aqui, o circuito montado no Arduino:
 ![Imagem contendo o circuito montado](./imagens/circuitomontado.JPG)
 
-Proposto por @Er1c-CH
+Proposto por <a href="https://github.com/Er1c-CH">Eric</a>
